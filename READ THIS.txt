@@ -2,13 +2,19 @@ Hello ALF
 
 This is Cameron
 
-Ignore everything except 
-
 MapsActivity.java
 
 and 
 
 activity_maps.xml
 
-These are the two important files if you are looking through our java and xml code
+These are the two important files
+
+Copy and paste the contents into corresponding java and xml files
+
+I have also written down how to install android studio and create a project that can be copied into
+
+This will have to do for now until we figure out how to copy an entire build across github
+
+When you are ready you will need to plug your device into your computer and click run (>) and choose your device *not an emulated device
 

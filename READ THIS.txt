@@ -1,0 +1,14 @@
+Hello ALF
+
+This is Cameron
+
+Ignore everything except 
+
+MapsActivity.java
+
+and 
+
+activity_maps.xml
+
+These are the two important files if you are looking through our java and xml code
+

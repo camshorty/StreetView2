@@ -1,0 +1,28 @@
+First download android studio for your computer (pc or mac)
+
+follow the instructions, dont change the components (SDK and Virtual)
+
+Choose where to store android studio and then the SDK (default is easy)
+
+Start android studio
+
+Follow instructions, click next for SDK components setup
+
+Click Finish.
+
+It will download stuff.
+
+Create a new project
+
+call it anything
+
+now you need to choose the minimum sdk level (IE ice cream sandwich)
+
+Best to make it lower than whatever you are using
+
+Make a basic activity
+
+Call it whatever
+
+As far as im aware you can copy and paste the code from our java to your java
+and the activity xml to your activity xml and it should build. 
